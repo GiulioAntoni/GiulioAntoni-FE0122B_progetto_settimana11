@@ -1,0 +1,22 @@
+.container{
+  display: block;
+  margin: 10px;
+  border: 0.5px solid red;
+}
+form{
+  display: block;
+  margin: auto;
+  width: 50vw;
+  border: 0.5px solid red;
+  padding: 50px;
+  text-align: center;
+  margin-top: 10vh;
+}
+button{
+  margin: 4px 10px;
+  display: inline-block;
+  width: 100%;
+}
+button:hover{
+  background-color: red;
+}
